@@ -24,4 +24,4 @@ A full-stack web developer and fan of Kanye West ![Kanye West](https://img.shiel
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 ## 📊 Stats
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faeolus87&labelColor=%23697689&countColor=%23697689&style=flat-square) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/217rlyfxvey2syjhzxpmceiea)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faeolus87&labelColor=%000000&countColor=%23697689&style=flat-square) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=black)](https://open.spotify.com/user/217rlyfxvey2syjhzxpmceiea)
