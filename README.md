@@ -1,12 +1,5 @@
-# 👋 Hi, I'm from the Philippines! 
-
-A passionate developer who loves turning ideas into reality through code.
-
-## 🚀 About Me
-- 💻 Full-stack developer with a knack for modern technologies
-- 🎯 Always exploring new tools and frameworks
-- 🌱 Constantly learning and growing
-
+# Developer from Philippines.
+A full-stack web developer and fan of Kanye West ![Kanye West](https://img.shields.io/badge/Kanye-West-%23FF0000?style=for-the-badge&logo=data:image/png;base64,<base64_encoded_image>)
 ## 🛠️ Technologies & Tools
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -31,7 +24,4 @@ A passionate developer who loves turning ideas into reality through code.
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 ## 📊 Stats
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faeolus87&labelColor=%23697689&countColor=%23697689)
-
-## 🎵 Now Playing
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/217rlyfxvey2syjhzxpmceiea)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faeolus87&labelColor=%23697689&countColor=%23697689) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/217rlyfxvey2syjhzxpmceiea)
