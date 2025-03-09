@@ -1,5 +1,5 @@
 # Developer from Philippines.
-A full-stack web developer and fan of Kanye West ![Kanye West](https://img.shields.io/badge/Kanye-West-%23FF0000?style=for-the-badge&logo=data:image/png;base64,<base64_encoded_image>)
+A full-stack web developer.
 ## 🛠️ Technologies & Tools
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
